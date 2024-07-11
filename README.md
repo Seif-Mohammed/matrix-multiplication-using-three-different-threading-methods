@@ -12,6 +12,7 @@ no_rows_a, no_cols_a, no_rows_b, no_cols_b, rows_c, cols_c: Dimensions of the ma
 file_a, file_b, file_c_m1, file_c_m2, file_c_m3: File paths for the input and output matrices.
 
 **Helper Functions:**
+
 setvalue_zero(int c[20][20]): Initializes matrix c to zero.
 
 PrintoutputMatrix(FILE *fp): Prints matrix c to the given file.
