@@ -13,13 +13,21 @@ file_a, file_b, file_c_m1, file_c_m2, file_c_m3: File paths for the input and ou
 
 **Helper Functions:**
 setvalue_zero(int c[20][20]): Initializes matrix c to zero.
+
 PrintoutputMatrix(FILE *fp): Prints matrix c to the given file.
+
 findint(char *str): Extracts the first integer from a string.
+
 substring(char *string, int position, int length): Extracts a substring.
+
 insert_substring(char *a, char *b, int position): Inserts a substring b into a at the given position.
+
 add_pathANDextension(char *path, char *fileName, char *extension): Constructs a file path with the given base path, filename, and extension.
+
 parse_input(char *input): Parses a string into tokens based on spaces.
+
 ReadMatrix(char *file_name): Reads a matrix from a file.
+
 write_in_file(char *file_name, int x): Writes the resulting matrix c to a file with a header indicating the method used.
 
 **Thread Functions**
