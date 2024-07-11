@@ -1,0 +1,3 @@
+/home/seif/Desktop/lab2_OS/cmake-build-debug/CMakeFiles/lab2_OS.dir
+/home/seif/Desktop/lab2_OS/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/seif/Desktop/lab2_OS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
